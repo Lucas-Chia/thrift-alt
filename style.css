@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&family=Playfair+Display&display=swap');
+
+
+@import	url('components/banner.css');
+@import	url('components/container.css');
+@import	url('components/button.css');
+
+
+body {
+	font-family: 'Nunito', sans-serif;
+	background-color: #FFCDB2;
+	color: #626C66
+}
+
+h1,h2,h3 {
+	font-family: 'Playfair Display', serif;
+}
+
+#words-topleft{
+	position: absolute;
+	left:80px; 
+	top:6px
+}
+
+.words-middle {
+	text-align: center;
+}

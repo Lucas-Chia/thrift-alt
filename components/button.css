@@ -1,0 +1,14 @@
+.button-orange {
+	background-color: #B5838D;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: #626C66;
+	font-weight: bold;
+	font-family: '#';
+	font-size: 18px;
+}
+
+.button-orange:hover {
+	transition-delay: 0.3;
+	color: #FFB4A2
+}
